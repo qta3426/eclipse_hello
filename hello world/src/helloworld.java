@@ -1,5 +1,8 @@
-public class pushprint {
+public class helloworld {
 	public static void main(String[] args) {
-		System.out.println("Add Java file");
+	System.out.println("Hello world");
+	System.out.println("Hello his world");
+	System.out.println("Hello your world");
+	System.out.println("Hello her world");
 	}
 }
